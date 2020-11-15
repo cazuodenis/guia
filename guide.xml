@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo SP SD">
+    <display-name lang="pt">Globo SP SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="GLOBO SP HDᴮᴿ">
+    <display-name lang="pt">GLOBO SP HDᴮᴿ</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Record SP">
+    <display-name lang="pt">Record SP</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Record SP HD">
+    <display-name lang="pt">Record SP HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Record News HD">
+    <display-name lang="pt">Record News HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="TV Cultura SP">
+    <display-name lang="pt">TV Cultura SP</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="TV Cultura SP HD">
+    <display-name lang="pt">TV Cultura SP HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Canal Futura">
+    <display-name lang="pt">Canal Futura</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="CNT">
+    <display-name lang="pt">CNT</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Canal Brasil SD">
+    <display-name lang="pt">Canal Brasil SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="CANAL BRASIL HD">
+    <display-name lang="pt">CANAL BRASIL HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+</tv>
